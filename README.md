@@ -14,9 +14,7 @@ Usage
         loadingView!.startGetHttpData = {
             
             print("start http data")
-            self.performSelector("success", withObject: self, afterDelay: 1)
-       }
-        
+           
         loadingView?.getDataSuccessClosures = {
             
             print("success  push")
