@@ -6,7 +6,7 @@ Animation like down gif
 ![ ](http://ww3.sinaimg.cn/mw690/b383e575gw1ex5pehic8pg20hs0qoth4.gif)
 ![ ](http://ww2.sinaimg.cn/mw690/b383e575gw1ex5pe7pp2ug20hs0qodos.gif)
 >
-USE
+Usage
 ------- 
        
         loadingView =   LoadingButtonSwift(fram: CGRectMake((self.view.frame.size.width/2)-90, 100, 180, 44), title: "确定", backColor:UIColorFromRGB(0x1487de))
